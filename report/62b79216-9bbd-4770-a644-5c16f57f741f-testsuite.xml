@@ -1,0 +1,28 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1558924630192" stop="1558924630192">
+  <name>test_02</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1558924630192" status="passed" stop="1558924630192">
+      <name>TestOne.test_01</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="blocker"/>
+        <label name="thread" value="10572-MainThread"/>
+        <label name="host" value="DESKTOP-BC4ET0U"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1558924630192" status="passed" stop="1558924630192">
+          <name>测试打印123456</name>
+          <title>测试打印123456</title>
+          <attachments>
+            <attachment source="84b236a0-5872-45b1-92d6-6f8a26e185b0-attachment.txt" title="测试打印成功" type="text/plain"/>
+            <attachment source="780fdb10-28ad-4544-93de-ad72bdc066ac-attachment.jpg" title="截图" type="image/jpg"/>
+          </attachments>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
